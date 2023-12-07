@@ -21,9 +21,8 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 To deploy this project run
 
-```bash
   Go live
-```
+
 
 
 ## Tech Stack
@@ -51,9 +50,8 @@ Go to the project directory
 
 Start the server
 
-```bash
   click on "Go live" button 
-```
+
 
 
 ## 🚀 About Me
