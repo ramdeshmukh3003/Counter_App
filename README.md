@@ -1,9 +1,9 @@
 
-# Port_Folio
+# Counter_App
 
-It is Parallax Effect Website.It has been made using HTML and CSS.In this Website,when you scroll down ,
-you will see one image override on another image and after text image will be changed . this concept is likely based on concept of Relative Motion.
-
+It is Counter App Website.It has been made using HTML , CSS and JavaScript . In this App , there are two turns(one for O and other for X).
+both turns are played by user ,because It is Simple Javascript project . you can reset your game by playing both sides . 
+ 
 ## Authors
 
 - [@ramdeshmukh3003](https://www.github.com/ramdeshmukh3003)
@@ -28,7 +28,7 @@ To deploy this project run
 
 ## Tech Stack
 
-**Client:** HTML , CSS.
+**Client:** HTML , CSS , JavaScript.
 
 
 
