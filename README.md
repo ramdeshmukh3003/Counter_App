@@ -2,7 +2,7 @@
 # Counter_App
 
 It is Counter App Website.It has been made using HTML , CSS and JavaScript . In this App , there are two turns(one for O and other for X).
-both turns are played by user ,because It is Simple Javascript project . you can reset your game by playing both sides . 
+both turns are played by user ,because It is Simple Javascript project . you can reset your game by playing both sides .
  
 ## Authors
 
